@@ -1,0 +1,13 @@
+starting time=0.0
+number of intervals=1
+time interval=628.
+radial zones=1000
+inner radius=0.1
+outer radius=30.
+include GR=0
+star mass=1.0
+test e=0.0
+test a=0.1
+test I=0.0
+test w=0.0
+test O=0.0
